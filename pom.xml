@@ -17,7 +17,7 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-		<poi-version>3.17</poi-version>
+		<poi-version>5.4.0</poi-version>
 		<lombok-version>1.18.8</lombok-version>
 		<maven-jar-plugin.version>3.1.1</maven-jar-plugin.version>
 	</properties>
